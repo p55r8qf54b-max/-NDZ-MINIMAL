@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NDZ – Passo a Passo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .box {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>NDZ – Guia Completo</h1>
+    <p>Bem-vindo ao manual completo com todos os arquivos, instruções e passo a passo para cadastrar seu produto na Kiwify.</p>
+
+    <h2>📌 Passo 1 — Preparar os Arquivos</h2>
+    <div class="box">
+        <p>Baixe ou visualize os arquivos incluídos neste repositório:</p>
+        <ul>
+            <li><a href="EBOOK_NDZ_PRO.pdf" target="_blank">📘 Ebook completo NDZ (PDF)</a></li>
+            <li><a href="capa.png" target="_blank">🖼️ Imagem da capa</a></li>
+            <li><a href="logotipo.png" target="_blank">🔰 Logotipo</a></li>
+            <li><a href="estilos.css" target="_blank">🎨 Estilos CSS</a></li>
+        </ul>
+    </div>
+
+    <h2>📌 Passo 2 — Criar o Produto na Kiwify</h2>
+    <div class="box">
+        <ol>
+            <li>Acesse <strong>kiwify.com.br</strong> e entre na sua conta.</li>
+            <li>No menu lateral, clique em <strong>Produtos</strong> → <strong>Criar produto</strong>.</li>
+            <li>Adicione título, descrição curta e imagem da capa.</li>
+            <li>Envie o PDF do Ebook na área de conteúdos.</li>
+            <li>Configure o preço inicial e a página pós-compra.</li>
+        </ol>
+    </div>
+
+    <h2>📌 Passo 3 — Subir sua Página Obrigado / Upsell (Opcional)</h2>
+    <div class="box">
+        <p>Coloque aqui também seu conteúdo adicional, caso tenha páginas extras.</p>
+    </div>
+
+    <h2>📌 Passo 4 — Publicar no GitHub Pages</h2>
+    <div class="box">
+        <p>Seu site ficará acessível em:</p>
+        <p><strong>https://p55r8qf54b-max.github.io</strong></p>
+        <p>Se a página não aparecer, espere 1 min para atualizar.</p>
+    </div>
+
+</div>
+
+<footer>
+    NDZ – Negócio Digital do Zero • 2025
+</footer>
+
+</body>
+</html>
